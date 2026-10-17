@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.3.0](https://github.com/JWEB0689/rea/compare/rea-agents-3.2.1...rea-agents-3.3.0) (2026-10-17)
+
+
+### Features
+
+* **native:** add inspection primitives, dispatch traces and approved UI observation ([#500](https://github.com/JWEB0689/rea/issues/500)) ([4fbc501](https://github.com/JWEB0689/rea/commit/4fbc501121e96b33665a76cad2e5c3e8ac2e2c6d))
+
+
+### Bug Fixes
+
+* correct native inventories and bridge error classification ([#503](https://github.com/JWEB0689/rea/issues/503)) ([405732a](https://github.com/JWEB0689/rea/commit/405732a7f55e3033c29533b18f7d8313dbd28570))
+
+
+### Continuous Integration
+
+* add Qodo-style Gemini Muse reviewer and 1-click Sign-Off workflow ([71d6dc1](https://github.com/JWEB0689/rea/commit/71d6dc12df703a9752d2e1fe40338e2a6bbd0675))
+
 ## [3.2.1](https://github.com/morluto/rea/compare/rea-agents-3.2.0...rea-agents-3.2.1) (2026-10-03)
 
 
