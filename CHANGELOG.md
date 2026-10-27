@@ -1,5 +1,25 @@
 # Changelog
 
+## [3.3.0](https://github.com/JWEB0689/rea/compare/rea-agents-3.2.1...rea-agents-3.3.0) (2026-10-27)
+
+
+### Features
+
+* **native:** add inspection primitives, dispatch traces and approved UI observation ([#500](https://github.com/JWEB0689/rea/issues/500)) ([4fbc501](https://github.com/JWEB0689/rea/commit/4fbc501121e96b33665a76cad2e5c3e8ac2e2c6d))
+
+
+### Bug Fixes
+
+* correct native inventories and bridge error classification ([#503](https://github.com/JWEB0689/rea/issues/503)) ([405732a](https://github.com/JWEB0689/rea/commit/405732a7f55e3033c29533b18f7d8313dbd28570))
+
+
+### Continuous Integration
+
+* add Qodo-style Gemini Muse reviewer and 1-click Sign-Off workflow ([71d6dc1](https://github.com/JWEB0689/rea/commit/71d6dc12df703a9752d2e1fe40338e2a6bbd0675))
+* remove legacy pr_agent.yml (superseded by pr-agent-repo-trigger.yml) ([1d26a49](https://github.com/JWEB0689/rea/commit/1d26a4936a7c8591056cafebcd55b5b37dca3f02))
+* standardize on pr-agent-repo-trigger.yml (Gemini Muse Qodo-style) ([ed85aab](https://github.com/JWEB0689/rea/commit/ed85aab125e6b5c9eeb5ec03a5898876a66a0049))
+* standardize on pr-agent-repo-trigger.yml (Gemini Muse Qodo-style) ([f9b8ad1](https://github.com/JWEB0689/rea/commit/f9b8ad18ad8bef7c436899042b380d32ede8ebf4))
+
 ## [3.2.1](https://github.com/morluto/rea/compare/rea-agents-3.2.0...rea-agents-3.2.1) (2026-10-03)
 
 
